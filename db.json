@@ -1,0 +1,344 @@
+{
+  "products": {
+    "b279fac8aa114fe4bdb585746fd84bfe": {
+      "id": "b279fac8aa114fe4bdb585746fd84bfe",
+      "name": "Kanjivaram Saree",
+      "image": null,
+      "audio": null,
+      "transcript": "My name is Lakshmi, I weave sarees using a 200-year-old loom.",
+      "story": "Handwoven by A Local Artisan on a traditional loom \u2014 preserving ancestral textile art.",
+      "tags": [
+        "handmade"
+      ],
+      "price_range": "\u20b9200\u2013\u20b9800",
+      "qr": "b279fac8aa114fe4bdb585746fd84bfe.png",
+      "created_at": "2025-09-17T16:25:26.857073Z"
+    },
+    "d9fd8eceb7c34b369f6d792cb269557a": {
+      "id": "d9fd8eceb7c34b369f6d792cb269557a",
+      "name": "Kanjivaram Saree",
+      "image": null,
+      "audio": null,
+      "transcript": "My name is Lakshmi, I weave sarees using a 200-year-old loom.",
+      "story": "Handwoven by A Local Artisan on a traditional loom \u2014 preserving ancestral textile art.",
+      "tags": [
+        "handmade"
+      ],
+      "price_range": "\u20b9200\u2013\u20b9800",
+      "qr": "d9fd8eceb7c34b369f6d792cb269557a.png",
+      "created_at": "2025-09-17T16:25:27.078034Z"
+    },
+    "394373fe1d3d4431a46d67940b77de0d": {
+      "id": "394373fe1d3d4431a46d67940b77de0d",
+      "name": "Kanjivaram Saree",
+      "image": "6112a0951814486bb60961b1e22f82db_",
+      "audio": "f045f2a1052f4ddfb6b59ba321155617_",
+      "transcript": "My name is F045F2A1052F4Ddfb6B59Ba321155617 . I make this product with traditional techniques learned from my family.",
+      "story": "Made by A Local Artisan, a craftsman keeping local traditions alive.",
+      "tags": [
+        "handmade"
+      ],
+      "price_range": "\u20b9200\u2013\u20b9800",
+      "qr": "394373fe1d3d4431a46d67940b77de0d.png",
+      "created_at": "2025-09-17T16:32:07.214148Z"
+    },
+    "bf4b100d0c1544d8b5ac4aeffb4c8cda": {
+      "id": "bf4b100d0c1544d8b5ac4aeffb4c8cda",
+      "name": "Kanjivaram Saree",
+      "image": "995ab99346df4786a69fb1a5fc9897a1_",
+      "audio": "4616a826010d4766a85d51b9d7238296_",
+      "transcript": "My name is 4616A826010D4766A85D51B9D7238296 . I make this product with traditional techniques learned from my family.",
+      "story": "Made by A Local Artisan, a craftsman keeping local traditions alive.",
+      "tags": [
+        "handmade"
+      ],
+      "price_range": "\u20b9200\u2013\u20b9800",
+      "qr": "bf4b100d0c1544d8b5ac4aeffb4c8cda.png",
+      "created_at": "2025-09-17T16:53:17.114811Z"
+    },
+    "2e945ffcd67745bc90f569962813fe5e": {
+      "id": "2e945ffcd67745bc90f569962813fe5e",
+      "name": "Kanjivaram Saree",
+      "image": "07e041fd1ac840ad935d05ec0e2798a6_",
+      "audio": "4ca30d614390404b804b926ef29b2db3_",
+      "transcript": "My name is 4Ca30D614390404B804B926Ef29B2Db3 . I make this product with traditional techniques learned from my family.",
+      "story": "Made by A Local Artisan, a craftsman keeping local traditions alive.",
+      "tags": [
+        "handmade"
+      ],
+      "price_range": "\u20b9200\u2013\u20b9800",
+      "qr": "2e945ffcd67745bc90f569962813fe5e.png",
+      "created_at": "2025-09-17T17:47:47.673859Z"
+    },
+    "3c54a929e8174e729040d9a6f8c4b343": {
+      "id": "3c54a929e8174e729040d9a6f8c4b343",
+      "name": "Kanjivaram Saree",
+      "image": "a5ea2a78d25d414c96d4922282b9a3d5_",
+      "audio": "94cad71713b947828f4c1e2c9ac9a711_",
+      "transcript": "My name is 94Cad71713B947828F4C1E2C9Ac9A711 . I make this product with traditional techniques learned from my family.",
+      "story": "Made by A Local Artisan, a craftsman keeping local traditions alive.",
+      "tags": [
+        "handmade"
+      ],
+      "price_range": "\u20b9200\u2013\u20b9800",
+      "qr": "3c54a929e8174e729040d9a6f8c4b343.png",
+      "created_at": "2025-09-18T17:57:20.655358Z"
+    },
+    "ac632e68f04b4f3c87ef288c62266854": {
+      "id": "ac632e68f04b4f3c87ef288c62266854",
+      "name": "Kanjivaram Saree",
+      "image": "a7c385bced2c4f1187c988cbf0b6bf28_",
+      "audio": "c5272be647494b8b9366f5ad75a88a79_",
+      "transcript": "My name is C5272Be647494B8B9366F5Ad75A88A79 . I make this product with traditional techniques learned from my family.",
+      "story": "Made by A Local Artisan, a craftsman keeping local traditions alive.",
+      "tags": [
+        "handmade"
+      ],
+      "price_range": "\u20b9200\u2013\u20b9800",
+      "qr": "ac632e68f04b4f3c87ef288c62266854.png",
+      "created_at": "2025-09-18T17:58:12.167746Z"
+    },
+    "68ce6171cb6d4c5ab72da3dd607e4d29": {
+      "id": "68ce6171cb6d4c5ab72da3dd607e4d29",
+      "name": "Kanjivaram Saree",
+      "image": "024b6703083243c182bfc42e65f85be6_",
+      "audio": "5b19704b4b0f4d9e8d13744fca997fe6_",
+      "transcript": "My name is 5B19704B4B0F4D9E8D13744Fca997Fe6 . I make this product with traditional techniques learned from my family.",
+      "story": "Made by A Local Artisan, a craftsman keeping local traditions alive.",
+      "tags": [
+        "handmade",
+        "traditional"
+      ],
+      "price_range": "\u20b9200\u2013\u20b9800",
+      "qr": "68ce6171cb6d4c5ab72da3dd607e4d29.png",
+      "created_at": "2025-09-18T18:22:50.433233Z"
+    },
+    "d15f2a88fc324351b0dec6858aa5ae15": {
+      "id": "d15f2a88fc324351b0dec6858aa5ae15",
+      "name": "Kanjivaram Saree",
+      "image": "e2a9acbd593545e1a6d23056801d9887_",
+      "audio": "2b90b0a7f526489c8d827a6963c77831_",
+      "transcript": "My name is 2B90B0A7F526489C8D827A6963C77831 . I make this product with traditional techniques learned from my family.",
+      "story": "Made by A Local Artisan, a craftsman keeping local traditions alive.",
+      "tags": [
+        "handmade"
+      ],
+      "price_range": "\u20b9200\u2013\u20b9800",
+      "qr": "d15f2a88fc324351b0dec6858aa5ae15.png",
+      "created_at": "2025-09-18T18:22:59.316198Z"
+    },
+    "02ed3217c86c435cbb9b5c62a6f898c7": {
+      "id": "02ed3217c86c435cbb9b5c62a6f898c7",
+      "name": "Kanjivaram Saree",
+      "image": "ddac09fa95bf4d3a8bce87f9f2365dcd_",
+      "audio": "1645d9fefa034716bfbe818e705f8ade_",
+      "transcript": "My name is 1645D9Fefa034716Bfbe818E705F8Ade . I make this product with traditional techniques learned from my family.",
+      "story": "Made by A Local Artisan, a craftsman keeping local traditions alive.",
+      "tags": [
+        "handmade",
+        "traditional"
+      ],
+      "price_range": "\u20b9200\u2013\u20b9800",
+      "qr": "02ed3217c86c435cbb9b5c62a6f898c7.png",
+      "created_at": "2025-09-18T18:28:10.317657Z"
+    },
+    "717bf4b1533a4104848834530096dfd1": {
+      "id": "717bf4b1533a4104848834530096dfd1",
+      "name": "Kanjivaram Saree",
+      "image": "ea59ebe3eede45bb826bbc5c694e19fe_",
+      "audio": "ab5c082617c5481899d60dee4d455ef7_",
+      "transcript": "My name is Ab5C082617C5481899D60Dee4D455Ef7 . I make this product with traditional techniques learned from my family.",
+      "story": "Made by A Local Artisan, a craftsman keeping local traditions alive.",
+      "tags": [
+        "handmade"
+      ],
+      "price_range": "\u20b9200\u2013\u20b9800",
+      "qr": "717bf4b1533a4104848834530096dfd1.png",
+      "created_at": "2025-09-18T18:28:49.681057Z"
+    },
+    "e232d49d39704307803f5445dc047afe": {
+      "id": "e232d49d39704307803f5445dc047afe",
+      "name": "Kanjivaram Saree",
+      "image": "065cda40f9144deaacd48d3c13353856_",
+      "audio": "b34975b76220492c8cfad361e7ca19b1_",
+      "transcript": "My name is B34975B76220492C8Cfad361E7Ca19B1 . I make this product with traditional techniques learned from my family.",
+      "story": "Made by A Local Artisan, a craftsman keeping local traditions alive.",
+      "tags": [
+        "handmade",
+        "traditional"
+      ],
+      "price_range": "\u20b9200\u2013\u20b9800",
+      "qr": "e232d49d39704307803f5445dc047afe.png",
+      "created_at": "2025-09-18T18:29:00.217041Z"
+    },
+    "bac2c47692c749f2ac235e9bd6b18930": {
+      "id": "bac2c47692c749f2ac235e9bd6b18930",
+      "name": "Kanjivaram Saree",
+      "image": "f6bccd74afb94679a9b5a580594b2a3f_",
+      "audio": "d53d89cdf5e44c22b54c65fa98490ad7_",
+      "transcript": "My name is D53D89Cdf5E44C22B54C65Fa98490Ad7 . I make this product with traditional techniques learned from my family.",
+      "story": "Made by A Local Artisan, a craftsman keeping local traditions alive.",
+      "tags": [
+        "handmade"
+      ],
+      "price_range": "\u20b9200\u2013\u20b9800",
+      "qr": "bac2c47692c749f2ac235e9bd6b18930.png",
+      "created_at": "2025-09-18T18:29:23.813314Z"
+    },
+    "7cac5d6530754f4eb0e7dd36dca4cdba": {
+      "id": "7cac5d6530754f4eb0e7dd36dca4cdba",
+      "name": "Kanjivaram Saree",
+      "image": "e5481ab5ac1e4ff7952a8b63614eddd5_",
+      "audio": "54a45095f8d24b12ab99d67870b385d1_",
+      "transcript": "My name is 54A45095F8D24B12Ab99D67870B385D1 . I make this product with traditional techniques learned from my family.",
+      "story": "Made by A Local Artisan, a craftsman keeping local traditions alive.",
+      "tags": [
+        "handmade"
+      ],
+      "price_range": "\u20b9200\u2013\u20b9800",
+      "qr": "7cac5d6530754f4eb0e7dd36dca4cdba.png",
+      "created_at": "2025-09-18T18:29:40.844596Z"
+    },
+    "c134cb34aa354228ab3a51dfede7bc42": {
+      "id": "c134cb34aa354228ab3a51dfede7bc42",
+      "name": "Kanjivaram Saree",
+      "image": "456fb48295ee44829b18d8076835a71f_",
+      "audio": "8bea0013b26c4333b70e4dab8e080532_",
+      "transcript": "My name is 8Bea0013B26C4333B70E4Dab8E080532 . I make this product with traditional techniques learned from my family.",
+      "story": "Made by A Local Artisan, a craftsman keeping local traditions alive.",
+      "tags": [
+        "handmade"
+      ],
+      "price_range": "\u20b9200\u2013\u20b9800",
+      "qr": "c134cb34aa354228ab3a51dfede7bc42.png",
+      "created_at": "2025-09-18T18:31:23.728818Z"
+    },
+    "9c23aa9c09b949f48b455c8fde043496": {
+      "id": "9c23aa9c09b949f48b455c8fde043496",
+      "name": "Kanjivaram Saree",
+      "image": "38fba23c87ea4b658d82d77fd4d7cf17_",
+      "audio": "1fe8ac6f890548b3a5e4dda2e7528d2f_",
+      "transcript": "My name is 1Fe8Ac6F890548B3A5E4Dda2E7528D2F . I make this product with traditional techniques learned from my family.",
+      "story": "Made by A Local Artisan, a craftsman keeping local traditions alive.",
+      "tags": [
+        "handmade"
+      ],
+      "price_range": "\u20b9200\u2013\u20b9800",
+      "qr": "9c23aa9c09b949f48b455c8fde043496.png",
+      "created_at": "2025-09-18T18:32:36.345968Z"
+    },
+    "c23d4fbda43549b2a103b54e52c534cc": {
+      "id": "c23d4fbda43549b2a103b54e52c534cc",
+      "name": "Kanjivaram Saree",
+      "image": "f02e7d491a9f48b0a5db4cd00ad4cdf7_",
+      "audio": "db72ccd64e694e97b9656a1005f81843_",
+      "transcript": "My name is Db72Ccd64E694E97B9656A1005F81843 . I make this product with traditional techniques learned from my family.",
+      "story": "Made by A Local Artisan, a craftsman keeping local traditions alive.",
+      "tags": [
+        "handmade"
+      ],
+      "price_range": "\u20b9200\u2013\u20b9800",
+      "qr": "c23d4fbda43549b2a103b54e52c534cc.png",
+      "created_at": "2025-09-18T18:38:15.737938Z"
+    },
+    "9d8eea13d69840fcbc25debeb5ebdc6d": {
+      "id": "9d8eea13d69840fcbc25debeb5ebdc6d",
+      "name": "Kanjivaram Saree",
+      "image": "2ded3ffe3bbb417fb947edb9c3ce1366_",
+      "audio": "889a8c18bf324258b245bd60b2de6fab_",
+      "transcript": "My name is 889A8C18Bf324258B245Bd60B2De6Fab . I make this product with traditional techniques learned from my family.",
+      "story": "Made by A Local Artisan, a craftsman keeping local traditions alive.",
+      "tags": [
+        "traditional"
+      ],
+      "price_range": "\u20b9200\u2013\u20b9800",
+      "qr": "9d8eea13d69840fcbc25debeb5ebdc6d.png",
+      "created_at": "2025-09-18T18:38:55.228133Z"
+    },
+    "114bf6c1822a4ee49fe2d0ce52f452f1": {
+      "id": "114bf6c1822a4ee49fe2d0ce52f452f1",
+      "name": "Kanjivaram Saree",
+      "image": "f1775b6d45c74b7e87bac6c8d4e56c6b_",
+      "audio": "8b4b358b0035477a8e8e1876c37d9043_",
+      "transcript": "My name is 8B4B358B0035477A8E8E1876C37D9043 . I make this product with traditional techniques learned from my family.",
+      "story": "Made by A Local Artisan, a craftsman keeping local traditions alive.",
+      "tags": [
+        "pottery"
+      ],
+      "price_range": "\u20b9300\u2013\u20b91200",
+      "qr": "114bf6c1822a4ee49fe2d0ce52f452f1.png",
+      "created_at": "2025-09-18T18:43:56.052076Z"
+    },
+    "2591026f615440c49835c77d2ed57ede": {
+      "id": "2591026f615440c49835c77d2ed57ede",
+      "name": "Kanjivaram Saree",
+      "image": "98a70ce51b6746e4aa6454a9bd3c2184_",
+      "audio": "2f09f73d4d2a4dacb5e0f1e594b9dbce_",
+      "transcript": "My name is 2F09F73D4D2A4Dacb5E0F1E594B9Dbce . I make this product with traditional techniques learned from my family.",
+      "story": "Made by A Local Artisan, a craftsman keeping local traditions alive.",
+      "tags": [
+        "traditional"
+      ],
+      "price_range": "\u20b9200\u2013\u20b9800",
+      "qr": "2591026f615440c49835c77d2ed57ede.png",
+      "created_at": "2025-09-18T18:50:14.241079Z"
+    },
+    "985550fbcafe4507a523898edf6ee0d3": {
+      "id": "985550fbcafe4507a523898edf6ee0d3",
+      "name": "silk saree",
+      "image": "b51a115575f441429a5397a6c9500661_",
+      "audio": "2b078101044b45fdbc4accaa700aa649_",
+      "transcript": "My name is 2B078101044B45Fdbc4Accaa700Aa649 . I make this product with traditional techniques learned from my family.",
+      "story": "Made by A Local Artisan, a craftsman keeping local traditions alive.",
+      "tags": [
+        "handmade"
+      ],
+      "price_range": "\u20b9200\u2013\u20b9800",
+      "qr": "985550fbcafe4507a523898edf6ee0d3.png",
+      "created_at": "2025-09-19T16:09:48.543893Z"
+    },
+    "ad3ea8a794ef4f49819ffadd183a50bc": {
+      "id": "ad3ea8a794ef4f49819ffadd183a50bc",
+      "name": "silk saree",
+      "image": "580a8a6f1a3d4563a8119724dfd515ce_Screenshot 2025-09-01 233107.png",
+      "audio": "59b7e518ebfd4cd2bf72eaa47f5d47ff_",
+      "transcript": "My name is 59B7E518Ebfd4Cd2Bf72Eaa47F5D47Ff . I make this product with traditional techniques learned from my family.",
+      "story": "Made by A Local Artisan, a craftsman keeping local traditions alive.",
+      "tags": [
+        "handmade"
+      ],
+      "price_range": "\u20b9200\u2013\u20b9800",
+      "qr": "ad3ea8a794ef4f49819ffadd183a50bc.png",
+      "created_at": "2025-09-19T16:11:23.073450Z"
+    },
+    "31dc641ad98147e5872f9da2764cc8e8": {
+      "id": "31dc641ad98147e5872f9da2764cc8e8",
+      "name": "silk saree",
+      "image": "24e84350b2054c3a980b9121dcbcb03f_",
+      "audio": "d9a63914a0f942bf90a25f74c71502d0_",
+      "transcript": "My name is D9A63914A0F942Bf90A25F74C71502D0 . I make this product with traditional techniques learned from my family.",
+      "story": "Made by A Local Artisan, a craftsman keeping local traditions alive.",
+      "tags": [
+        "handmade"
+      ],
+      "price_range": "\u20b9200\u2013\u20b9800",
+      "qr": "31dc641ad98147e5872f9da2764cc8e8.png",
+      "created_at": "2025-09-20T16:47:26.012300Z"
+    },
+    "97a7ab5ae7ea4ddb8f80dd567970a492": {
+      "id": "97a7ab5ae7ea4ddb8f80dd567970a492",
+      "name": "silk saree",
+      "image": "ed9449662d4142f2b509a7c9fc6a7a51_",
+      "audio": "f166fa72fbb24aaba4734903fd32d313_",
+      "transcript": "My name is F166Fa72Fbb24Aaba4734903Fd32D313 . I make this product with traditional techniques learned from my family.",
+      "story": "Made by A Local Artisan, a craftsman keeping local traditions alive.",
+      "tags": [
+        "handmade",
+        "traditional"
+      ],
+      "price_range": "\u20b9200\u2013\u20b9800",
+      "qr": "97a7ab5ae7ea4ddb8f80dd567970a492.png",
+      "created_at": "2025-09-21T05:01:56.246197Z"
+    }
+  }
+}
